@@ -5,7 +5,7 @@ Web developer and IT enthusiast from Prague, Czech Republic
 ---
 
 #### Languages
-PHP, JavaScript, HTML+CSS, Java
+PHP, TypeScript, C#
 
 #### Frameworks
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="24" height="24" align="center"> Laravel,
@@ -16,9 +16,7 @@ PHP, JavaScript, HTML+CSS, Java
 ---
 
 #### Projects
-[<img src="https://minecraftservery.eu/img/favicon.png" width="32" height="32" align="center"> **MinecraftServery.eu**](https://minecraftservery.eu) — Czech and Slovak Minecraft server list
-
-[<img src="https://editor.rotatingheads.eu/assets/logo.png" width="32" height="32" style="border-radius:50%;" align="center"> **RotatingHeads WebEditor**](https://editor.rotatingheads.eu) — Vue-based app for editing plugin configuration
+[<img src="https://minecraftservery.eu/favicon.png" width="32" height="32" align="center">](https://minecraftservery.eu) [**MinecraftServery.eu**](https://minecraftservery.eu) — Czech and Slovak Minecraft server list
 
 ---
 
